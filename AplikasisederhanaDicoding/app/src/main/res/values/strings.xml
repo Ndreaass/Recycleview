@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aplikasi sederhana Dicoding</string>
+    <string name="nama_motor">Nama Motor</string>
+    <string name="merk_motor">Merk Motor</string>
+    <string name="cc_motor">Cc Motor</string>
+</resources>

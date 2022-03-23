@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="legenda" />
+    <drawable name="vario" />
+    <drawable name="karisma" />
+    <drawable name="beat" />
+    <drawable name="cbr" />
+    <drawable name="ninja" />
+    <drawable name="harley" />
+    <drawable name="beneli" />
+    <drawable name="crf" />
+</resources>
